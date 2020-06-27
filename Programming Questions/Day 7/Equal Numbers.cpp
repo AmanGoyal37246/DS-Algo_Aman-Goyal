@@ -1,4 +1,4 @@
-Given a binary array of length n, find the maximum length of a contiguous subarray with equal number of 0 and 1.
+/*Given a binary array of length n, find the maximum length of a contiguous subarray with equal number of 0 and 1.
 
 INPUT FORMAT: 
 
@@ -29,7 +29,7 @@ SAMPLE INPUT
 3
 0 1 0
 SAMPLE OUTPUT 
-2
+2*/
 
 
 #include<bits/stdc++.h>
