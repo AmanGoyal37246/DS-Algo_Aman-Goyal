@@ -1,4 +1,4 @@
-Given a 2 dimenstional matrix whose elements are 0 and 1 only. Find the largest square that contain only 1's and return the area of that square.
+/*Given a 2 dimenstional matrix whose elements are 0 and 1 only. Find the largest square that contain only 1's and return the area of that square.
 
  
 
@@ -38,7 +38,7 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 4
 Explanation
-We need to find the largest square comprising of all ones in the given m×n matrix. In other words we need to find the largest set of connected ones in the given matrix that forms a square.
+We need to find the largest square comprising of all ones in the given mÃ—n matrix. In other words we need to find the largest set of connected ones in the given matrix that forms a square.*/
 
 
 #include<bits/stdc++.h>
