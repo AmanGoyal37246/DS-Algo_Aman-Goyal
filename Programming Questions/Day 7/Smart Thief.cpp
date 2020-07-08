@@ -1,4 +1,4 @@
-The robber is very smart and  planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping thief from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
+/*The robber is very smart and  planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping thief from robbing each of them is that adjacent houses have security system connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
 Given an array of non-negative integers representing the amount of money of each house, determine the maximum amount of money you can rob tonight without alerting the police.
 
@@ -25,7 +25,7 @@ SAMPLE INPUT
 3
 1
 SAMPLE OUTPUT 
-4
+4*/
 
 
 #include<bits/stdc++.h>
